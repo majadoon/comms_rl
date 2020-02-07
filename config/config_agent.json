@@ -1,0 +1,8 @@
+{
+  "agent": {
+    "agent_type": "DQN",
+    "t_max": 65536,
+    "n_episodes": 16,
+    "batch_size": 32
+  }
+}
